@@ -1,2 +1,4 @@
 # hello-world
-My First Repository
+Hello
+
+I am Sukriti Ranjan.I am pursuing MCA from NIT Agartala.
